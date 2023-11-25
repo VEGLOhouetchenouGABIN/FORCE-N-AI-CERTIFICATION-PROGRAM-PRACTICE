@@ -1,10 +1,3 @@
-##  PROGRAM FORCE N AI SENEGAL  ##
-
-## IA 
-## COMPUTER VISION
-## NATURAL LANGAGE PROCESSING
-
-
 # Module3
 
 ## All code on this repository is running on docker container notebook
@@ -24,7 +17,3 @@
 
 
 #### NB: Absoluate path  for this part:  '/path/to/DIRECORY/YOU/WANT/'    also replace this  'container-name'  with your conaiter name
-
-
-
-      
